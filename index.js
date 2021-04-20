@@ -1,6 +1,6 @@
 //Grafico de columnas. Mi 1º gráfico
 
-
+//import './style.css';
 //var visualization = d3plus
 //.viz()
 //.container("#viz1")
@@ -12,4 +12,4 @@
 //.id("name")
 //.x("year")
 //.y("value")
-//.draw()
+//.draw();
